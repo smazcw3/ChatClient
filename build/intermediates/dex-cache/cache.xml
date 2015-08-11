@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/exploded-aar/com.android.support.test.uiautomator/uiautomator-v18/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6657a9dfb636f78de2f25ce33431f19c1baa7e8">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/classes-e3df186a1818950f99fce6fa9009db8057c7ec8b.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.10/64417b3bafdecd366afa514bd5beeae6c1f85ece/junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/junit-dep-4.10-bb176be36fddcd962ec93b6bd4f97649370436d1.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/support-annotations-22.0.0-31e53aef9fe73d3c1406d4950ed76b166f511008.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29d14c552f643eae0255ba38f93c0b968fd092c4">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/classes-31b3bad845bcc510a53d83d894ba5995af09060e.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa416efe9dd2717f8eb55b1f5d9903bc7f9f663a">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/classes-55c319644241afc5e4781697d657ef23a6e70644.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="28db0e59551f4468fd53106e1cb13beaf636007b">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/classes-cbe64d8ac25f8bb1f8d4bde5c1f9ce412f5ab6e3.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7cc1fbd6049001f7bb694f360cc1aad53d0128b6">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/classes-42c374b1d3c3d2f4a37d9a2cd086fc2c13c8982e.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1-4a3396fc8f980d6c38fc8900cff2dfb72f914588.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1-5d473f0005d82fd82e004d29e45b006bcf1679a1.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.1-ce1195acc2de3de97c619bf730dd444fa17f45e2.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2-1f9dbdc41e5f7a48f57ec97cfc039376330918ad.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1-e1ce618c0ac044e3568ec656c5abec61490350ae.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.1/b988c01468e3398d46678a2eb48aeb5bde271e9f/hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.1-8bb1bf2ee28ad31c81d27e2bbb6d652d0d87b96d.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a764c7aef5be3d7b138eabf0334ccadf889fcbd">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/classes-b4366707453ee2ffa32893ce2ebbf7c61c7328ed.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.1/8d47177aa4da0f259fc823a39736bad2f09993d5/hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="/Users/macbookpro/Documents/Android/COMP107x/ChatClient/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.1-a3b1ac3f73eee3577377eb7f2fb96e12ff8cca83.jar" />
+    </item>
+
+</items>
